@@ -1,1 +1,4 @@
-
+config:
+  label: "master branch"
+  uri: "cloud-config-center/global-config-prod.yml"
+  version: "1.0"
