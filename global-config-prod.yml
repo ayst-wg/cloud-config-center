@@ -1,4 +1,4 @@
 config:
-  label: "prod"
+  label: "dev"
   name: "cloud-config-center/global-config-prod.yml"
   version: "1.0"
