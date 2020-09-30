@@ -1,1 +1,4 @@
-
+config:
+  label: "dev"
+  name: "cloud-config-center/global-config-dev.yml"
+  version: "1.0"
