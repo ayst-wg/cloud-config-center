@@ -1,4 +1,4 @@
 config:
-  label: "test"
+  label: "dev"
   name: "cloud-config-center/global-config-test.yml"
   version: "1.0"
