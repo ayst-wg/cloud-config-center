@@ -1,1 +1,4 @@
-
+config:
+  label: "master branch"
+  name: "cloud-config-center/global-dev.yml"
+  version: "1.0"
