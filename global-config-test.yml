@@ -1,4 +1,4 @@
 config:
   label: "master branch"
-  name: "cloud-config-center/global-test.yml"
+  name: "cloud-config-center/global-config-test.yml"
   version: "1.0"
